@@ -13,7 +13,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 # 別途リストを用意して制御すべきかもしれない。(要検討)
 
 <天海春香> a mltd:Idol ;
-    :name "天海春香" ;
+    :name "天海春香    " ;
     :familyName "天海"@ja ;
     :givenName "春香"@ja ;
     :familyName "あまみ"@ja-hira ;
